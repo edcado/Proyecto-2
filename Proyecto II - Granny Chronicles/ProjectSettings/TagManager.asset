@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Narrator
+  - Floor
+  - Platform
+  - Bird
+  - Sigilo
+  - Arbusto
+  - Damage
+  - Linterna
+  - Checkpoint
+  - Portal
+  - Escalera
+  - Abuela
+  - ParteAbuela
+  - Plataformas
+  - CinemachineFramer
+  - GoodEnding
+  - AbuelaHablando
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Jumpable
+  - Enemies
+  - Damage
+  - Wall
+  - FondoTemporal
+  - Sigilo
+  - FallingPlatform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Fondo
+    uniqueID: 2975115595
+    locked: 0
+  - name: Decoracion
+    uniqueID: 2743487367
+    locked: 0
+  - name: Pillars
+    uniqueID: 2190740661
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ParticlesFront
+    uniqueID: 218166281
+    locked: 0
+  - name: Curtain
+    uniqueID: 1233400169
+    locked: 0
